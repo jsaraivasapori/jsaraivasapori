@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **Angular, JavaScript, TypeScript, CSS, HTML, Database**
 
-- 📫 How to reach me **www.linkedin.com/in/joaovitorsaraivasapori**
+- 📫 How to reach me **contato.jvsaraivasapori@gmail.com**
 
 - 📄 Know about my experiences [www.linkedin.com/in/joaovitorsaraivasapori](www.linkedin.com/in/joaovitorsaraivasapori)
 
