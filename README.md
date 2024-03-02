@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Angular e React**
 
-- 💬 Ask me about **Angular, JavaScript, TypeScript, CSS, HTML, Database**
+- 💬 Ask me about **Angular, JavaScript, TypeScript, Python, CSS, HTML, Database**
 
 - 📫 How to reach me **contato.jvsaraivasapori@gmail.com**
 
