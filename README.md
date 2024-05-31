@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **www.linkedin.com/in/joaovitorsaraivasapori**
 
-- 📄 Know about my experiences [www.linkedin.com/in/joaovitorsaraivasapori](www.linkedin.com/in/joaovitorsaraivasapori)
+- 📄 Know about my experiences [www.linkedin.com/in/joaovitorsaraivasapori]
 
 - ⚡ Fun fact **I'm 12 cats father**
 
