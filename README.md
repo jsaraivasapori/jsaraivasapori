@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jsaraivasapori" alt="jsaraivasapori" /></a> </p>
 
-- 🌱 I’m currently learning **Angular**
+- 🌱 I’m currently **full-stack developer**
 
-- 💬 Ask me about **Angular, JavaScript, TypeScript, CSS, HTML, Database**
+- 💬 Ask me about **Angular, Node.js, Express.js, Nest.js,JavaScript, TypeScript,PHP, Python, CSS, HTML, SQL Databases, NOSQL Databases, Google Cloud, Firebase**
 
 - 📫 How to reach me **www.linkedin.com/in/joaovitorsaraivasapori**
 
